@@ -19,4 +19,4 @@
 
 > Reading a line from a fd is way too tedious
 
-These projects are part of ranks 0 and 1 of the [42](https://www.42network.org) Common Core curriculum.
+These projects are part of the [42](https://www.42network.org) Common Core curriculum.
