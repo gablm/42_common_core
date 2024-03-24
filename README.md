@@ -9,7 +9,7 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 ## Rank 00
 ### Libft
 
-[Open project](./libft/)
+[Open project](./00_libft/)
 
 ![Static Badge](https://img.shields.io/badge/Score-125%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
@@ -18,7 +18,7 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 ## Rank 01
 ### ft_printf
 
-[Open project](./printf/)
+[Open project](./01_printf/)
 
 ![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
@@ -26,7 +26,7 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 
 ### Get Next Line
 
-[Open project](./get_next_line/)
+[Open project](./01_get_next_line/)
 
 ![Static Badge](https://img.shields.io/badge/Score-125%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
@@ -35,7 +35,7 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 ## Rank 02
 ### Minitalk
 
-[Open project](./minitalk/)
+[Open project](./02_minitalk/)
 
 ![Static Badge](https://img.shields.io/badge/Score-125%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
@@ -43,7 +43,7 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 
 ### So Long
 
-[Open project](./so_long/)
+[Open project](./02_so_long/)
 
 ![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
@@ -51,7 +51,7 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 
 ### Push_swap
 
-[Open project](./push_swap/)
+[Open project](./02_push_swap/)
 
 ![Static Badge](https://img.shields.io/badge/Score-96%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
