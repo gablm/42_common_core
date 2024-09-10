@@ -56,3 +56,12 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 ![Static Badge](https://img.shields.io/badge/Score-96%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
 > Because Swap_push isn’t as natural
+
+## Rank 03
+### Philosophers
+
+[Open project](./02_push_swap/)
+
+![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
+
+> I never thought philosophy would be so deadly
