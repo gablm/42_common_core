@@ -60,15 +60,15 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 ## Rank 03
 ### Philosophers
 
-[Open project](./02_push_swap/)
+[Open project](./03_philosophers/)
 
 ![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
 > I never thought philosophy would be so deadly
 
-### Minishell
+### Minishell (feat. @PedroZappa)
 
-[Open project](./03_minishell/)
+[Open project](https://github.com/PedroZappa/42_minishell/)
 
 ![Static Badge](https://img.shields.io/badge/Score-99%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
