@@ -1,0 +1,3 @@
+[submodule "03_minishell"]
+	path = 03_minishell
+	url = git@github.com:PedroZappa/42_minishell.git

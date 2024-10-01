@@ -65,3 +65,11 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 ![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
 
 > I never thought philosophy would be so deadly
+
+### Minishell
+
+[Open project](./03_minishell/)
+
+![Static Badge](https://img.shields.io/badge/Score-99%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
+
+> As beautiful as a shell
